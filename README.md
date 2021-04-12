@@ -35,6 +35,7 @@ Update personal information on profile page
 
  ## Built with
 ### Front-end
+- ejs
 - Mapbox
 - Bootstrap
 ### Back-end
@@ -47,3 +48,5 @@ Update personal information on profile page
 - method-override
 - Heroku
 - Cloudinary
+- helmet
+- joi
