@@ -53,7 +53,7 @@ Update personal information on profile page
 - helmet
 - joi
 
-##Installation
+## Installation
 
 1. Install mongodb
 2. Create a cloudinary account to get an API key and secret code
@@ -72,7 +72,7 @@ API_SECRET='<secret>'
 ```
 Run mongod in another terminal and node app.js in the terminal with the project.
 
-Then go to localhost:3000.
+Then go to [localhost:3000](https://localhosts/3000).
 
 To get google maps working check this out.
 
