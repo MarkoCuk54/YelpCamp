@@ -9,9 +9,9 @@ A Node.js web application project from the Udemy course - The Web Developer Boot
 - User login with username and password
 - Authorization
 
-- One cannot manage posts and view user profile without being authenticated
+- One cannot manage posts and view user profile without being authenticated.
  One cannot edit or delete posts and comments created by other users
- Manage campground posts with basic functionalities:
+ Manage campground posts with basic functionalities.
 
 - Create, edit and delete posts and comments
 
