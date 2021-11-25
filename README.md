@@ -58,7 +58,7 @@ A Node.js web application project from the Udemy course - The Web Developer Boot
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/himanshup/yelpcamp.git
+git clone https://github.com/MarkoCuk54/YelpCamp.git
 cd yelpcamp
 npm install
 ```
