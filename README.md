@@ -74,7 +74,6 @@ Run mongod in another terminal and node app.js in the terminal with the project.
 
 Then go to [localhost:3000](https://localhosts/3000).
 
-To get google maps working check this out.
 
 
 
